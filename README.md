@@ -7,6 +7,7 @@ Authors:
     - Mike Hornan <mike.hornan@able-pool.io>
     - Alexandre Lafleur <alexandre.lafleur@able-pool.io>
     - Adam Dean <https://github.com/Crypto2099>
+    - Van Michael <cardano420@gmail.com>
 Discussions:
     - <https://discord.com/channels/826816523368005654/1128361520514994178>
     - <https://discord.com/channels/826816523368005654/915340581411106916>
@@ -17,9 +18,7 @@ License: CC-BY-4.0
 
 # Minimum Viable Constitution (MVC)
 
-**We the Community** of the Cardano Blockchain, in Order to form a more perfect Union, establish Fairness, insure financial Liberty,
-provide for the common defence of the Network, and promote its proper Functioning for ourselves and our Posterity, do ordain and establish
-this Constitution for the Cardano Blockchain of the World.
+**The Cardano Community**, in an effort to ensure the proper functioning of the Cardano Network for ourselves and our posterity, do ordain and establish the Cardano Constitution. This document is a formalization of the shared ethos of the Cardano Community. This Constitution should serve to unite people from all around the world in a fair and transparent on-chain governance process that will push power to the edges for the remainder of the 21st Century and beyond!
 
 > **TODO** Redact an original and inspiring Preamble.
 ## Article I

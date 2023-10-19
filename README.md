@@ -18,7 +18,7 @@ License: CC-BY-4.0
 
 # Minimum Viable Constitution (MVC)
 
-**The Cardano Community**, in an effort to ensure the proper functioning of the Cardano Network for ourselves and our posterity, do ordain and establish the Cardano Constitution. This document is a formalization of the shared ethos of the Cardano Community. This Constitution should serve to unite people from all around the world in a fair and transparent on-chain governance process that will push power to the edges for the remainder of the 21st Century and beyond!
+**The Cardano Community**, in an effort to ensure the proper functioning of the Cardano Network for ourselves and our posterity, do ordain and establish the Cardano Constitution. This document is a formalization of the shared ethos of the Cardano Community. The rules and bylaws contained herein will unite people from all around the world in a fair and transparent on-chain governance process that will push power to the edges for the remainder of the 21st Century and beyond!
 
 > **TODO** Redact an original and inspiring Preamble.
 ## Article I

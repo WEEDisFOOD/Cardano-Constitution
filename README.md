@@ -21,38 +21,41 @@ License: CC-BY-4.0
 Preamble
 
 Article I
-Section 1: Governance Committee
-Section 2: Requirements and Meetings
-Section 3: Power and Duty of the Constitutional Committee
-Section 4: Elections
-Section 5: Disabilities of Constitutional Committee Members
+(Section 1) Governance Committee
+(Section 2) Requirements and Meetings
+(Section 3) Power and Duty of the Constitutional Committee
+(Section 4) Elections
+(Section 5) Disabilities of Constitutional Committee Members
 
 Article II
-Section 1: Delegated Representatives
-Section 2: Requirements
-Section 3: Power and Duty of the Delegated Representatives
+(Section 1) Delegated Representatives
+(Section 2) Requirements
+(Section 3) Power and Duty of the Delegated Representatives
 
 Article III
-Section 1: Stake Pool Operators
-Section 2: Power and Duty of the Stake Pool Operators
+(Section 1) Stake Pool Operators
+(Section 2) Power and Duty of the Stake Pool Operators
 
 Article IV
-Section 1: The Cardano Community
-Section 2: The Community Rights
+(Section 1) The Cardano Community
+(Section 2) The Community Rights
 
 Article V
-Section 1: The Cardano Protocol
-Section 2: One ADA, one vote
-Section 3: Minimum Acceptable Protocol Parameters
+(Section 1) The Cardano Protocol
+(Section 2) One ADA, one vote
+(Section 3) Minimum Acceptable Protocol Parameters
 
 Article VI
 The Cardano Governance Bodies shall not submit or vote in favor of any governance action that serves to promote the establishment of religion or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the community to submit governance actions and to petition the Governance Bodies for a redress of grievances.
 
-Article VII: Amendment Process
+Article VII
+Amendment Process
 
-Article VIII: Blockchain State, Supremacy, Affirmation, Religious Tests
+Article VIII
+Blockchain State, Supremacy, Affirmation, Religious Tests
 
-Article IX: The Ratification of ("Update to the Constitution") governance action, shall be sufficient for the Establishment of this Constitution between the Governance Bodies so ratifying the Same.
+Article IX
+The Ratification of ("Update to the Constitution") governance action, shall be sufficient for the Establishment of this Constitution between the Governance Bodies so ratifying the Same.
 
 # Minimum Viable Constitution (MVC)
 

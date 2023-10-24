@@ -17,7 +17,6 @@ License: CC-BY-4.0
 ---
 
 # Table of Contents
-Table of Contents:
 
 Preamble
 
